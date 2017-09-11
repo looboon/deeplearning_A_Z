@@ -1,2 +1,3 @@
-# deeplearning_A_Z
-Repo for Udemy course
+# Deep Learning A-Z™ Repo
+
+Repo for Udemy course - In progress
